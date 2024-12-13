@@ -23,7 +23,7 @@ To get started with this project, follow the instructions below:
 
 1. Clone the Repository: Clone this repository to your local machine using the following command:
     ```bash
-    [git clone https://github.com/yourusername/Blinkit-Grocery-Dashboard.git](https://github.com/Chidanand-Rao/Data_Analysis_DashBoard_Blinkit.git)
+    gitclone https://github.com/Aishwarya23-ux/Data_Analysis_Blinkit_DashBoard
     ```
 
 2. Open the Excel File: Navigate to the cloned repository and open the `Blinkit_Data_Analysis.xlsx` file in Excel.
