@@ -49,6 +49,11 @@ The Blinkit grocery dataset includes transaction details such as:
 ##DashBoard
 ![image](https://github.com/user-attachments/assets/55a603d1-d77f-4b3f-91bc-7945a0e6613a)
 
+##Dataset
+![image](https://github.com/user-attachments/assets/fbe7820f-e6d2-4041-ba1b-e26f99006732)
+
+##DataDesign
+![image](https://github.com/user-attachments/assets/c7e0f241-2cea-4bf0-a46e-c52d0d25b3ad)
  
 ## Contributing
 
