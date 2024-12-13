@@ -64,7 +64,7 @@ Special thanks to the Kaggel “https://www.kaggle.com/datasets/mukeshgadri/blin
 
 ## Contact
 
-For any questions or feedback, please reach out to [chidanand.rao.e@gmail.com](mailto:  chidanand.rao.e@gmail.com) or open an issue on this repository.
+For any questions or feedback, please reach out to https://github.com/Aishwarya23-ux/ or open an issue on this repository.
 
 ---
 Feel free to customize this template to better fit your specific project details and needs. Adding visual aids, such as screenshots or gifs of your dashboard, can also make your README more engaging and helpful. Happy coding!
